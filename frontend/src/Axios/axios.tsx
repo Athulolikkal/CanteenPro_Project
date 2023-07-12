@@ -2,7 +2,7 @@ import axios from 'axios';
 let accessToken = '';
 
 const instance = axios.create({
-    baseURL: 'http://localhost:3000',
+    baseURL: import.meta.env.VITE_BASEURL,
 });
 
 export const setAccessToken = (role: string | undefined) => {

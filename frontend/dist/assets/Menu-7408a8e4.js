@@ -1,0 +1,1 @@
+import{i as r}from"./interopRequireDefault-01ffd8a5.js";import{r as t}from"./createSvgIcon-f63db057.js";import{j as a}from"./index-4f0de649.js";var e={},u=r;Object.defineProperty(e,"__esModule",{value:!0});var o=e.default=void 0,v=u(t()),i=a,f=(0,v.default)((0,i.jsx)("path",{d:"M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"}),"Menu");o=e.default=f;export{o as d};
